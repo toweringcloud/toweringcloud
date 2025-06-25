@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working as a **Senior Software Engineer**.
-- 🌱 I’m diving deep into **AI service integration on something**.
-- 👯 I’m looking to collaborate on **3D web based platform business**.
+- 🔭 I’m currently working as a **Software Engineer and Indie Maker**.
+- 🌱 I’m diving deep into **Generative AI service integration on various fields**.
+- 👯 I’m looking to collaborate on **Interactive 2D/3D web/mobile based platform service**.

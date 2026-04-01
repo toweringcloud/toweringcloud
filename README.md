@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working as a **Software Engineer and Indie Maker**.
-- 🌱 I’m diving deep into **Agentic AI service integration on various fields**.
-- 👯 I’m very interested in **Data Pipeline Platform** that links langgraph and airflow.
+🔭 Currently building software as an Engineer and Indie Maker.
+🌱 Scaling Agentic AI services to solve real-world problems across diverse industries.
+👯 Passionate about building Data Platforms by leveraging LangGraph and Airflow.
